@@ -1,4 +1,4 @@
-Hey there 👋, I am Aditya Pathak
+# Hey there 👋, I am Aditya Pathak.
 
 <br>
 🌱 I’m currently learning Web Development.
