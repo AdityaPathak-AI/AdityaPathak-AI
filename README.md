@@ -7,6 +7,6 @@
 <br>
 💬 Ask me about Java
 <br>
-📫 How to reach me: aastha.mahindra125@gmail.com
+📫 How to reach me: sumitpathak861@gmail.com
 <br>
 ⚡ Fun fact: I'm obsessed with Cricket and Football.🌏
