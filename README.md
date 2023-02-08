@@ -1,9 +1,9 @@
-#Hey there 👋, I am Aditya Pathak
+Hey there 👋, I am Aditya Pathak
 
 <br>
-🌱 I’m currently learning Web Development.
+🌱 I’m currently learning **Web Development.**
 <br>
-👯 I’m looking to collaborate on Django Based Projects.
+👯 I’m looking to collaborate on **Django** Based Projects.
 <br>
 💬 Ask me about Java
 <br>
