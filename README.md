@@ -1,1 +1,1 @@
-<h6> Hey there 👋, I am Aditya Pathak </h6>
+#Hey there 👋, I am Aditya Pathak
