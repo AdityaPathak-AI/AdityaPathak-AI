@@ -4,22 +4,22 @@
 
 🌱 I’m currently learning Web Development.
 
-👯 I’m looking to collaborate on Django Based Projects.
+👯 I’m looking to collaborate on React Based Projects.
 
 💬 Ask me about Computer Science
 
-📫 How to reach me: sumitpathak861@gmail.com
+📫 How to reach me: adityapathakwork@gmail.com
 
 ⚡ Fun fact: I'm obsessed with Cricket and Football.🌏
 
 
 ## 🛠 Skills
 
-1. Core Java
-2. Python
-3. HTML-5
-4. CSS-3
-5. Django
+1. HTML-5
+2. CSS-3
+3. Javascript
+4. React JS
+5. Mongo DB
 
 
 
