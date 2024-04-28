@@ -10,7 +10,7 @@
 
 📫 How to reach me: adityapathakwork@gmail.com
 
-⚡ Fun fact: I'm obsessed with Cricket and Football.🌏
+⚡ Fun fact: I'm obsessed with Football.🌏
 
 
 ## 🛠 Skills
