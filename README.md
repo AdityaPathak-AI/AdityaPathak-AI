@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Web Development.
 
-👯 I’m looking to collaborate on React Based Projects.
+👯 I’m looking to collaborate on Javascript Based Projects.
 
 💬 Ask me about Computer Science
 
