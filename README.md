@@ -15,12 +15,12 @@
 
 ## 🛠 Skills
 
-1. HTML-5
-2. CSS-3
-3. Javascript
-4. Node JS
+1. Javascript
+2. Typescript
+3. Express JS
+4. Nest JS
 5. Mongo DB
-6. Nest JS
+6. MySql
 
 
 
